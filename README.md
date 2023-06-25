@@ -7,7 +7,7 @@
   - 🙂 I am a Computer Science Sophomore at IIIT Jabalpur
   - 🔭 I Like solving problems and building random stuffs :P
   - 💬 I usually code in C++, Java, python or JS
-  - 📫 You can [mail](mailto:saxenaaishwarya007@gmail.com) me for anything!
+  - 📫 You can [mail](mailto:aishwarya0749@gmail.com) me for anything!
 
 ## 💻 Also, here are the other places where you can find me: 
 <p align="center">
@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aish0749&show_icons=true&locale=en&layout=compact" alt="aish0749" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aish0749&show_icons=true&locale=en" alt="aish0749" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aish0749&show_icons=true&locale=en" alt="aish0749" /></p>* >
 
 |               |           |
 |       ---     |    ---    |
