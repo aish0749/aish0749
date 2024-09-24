@@ -12,7 +12,7 @@
 ## 💻 Also, here are the other places where you can find me: 
 <p align="center">
 <a href="https://www.linkedin.com/in/aishwarya-saxena-05713618b/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="aishwarya" height="40" width="40"/></a>
-<a href="https://codeforces.com/profile/ASH0705" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ASH0705" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/Pi_Easter07" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="ASH0705" height="40" width="40" /></a>
 <a href="https://leetcode.com/aishwarya0749/" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="aishwarya0749" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/aishwarya0705" target="blank"><img src="https://img.icons8.com/color/144/000000/codechef.png" alt="aishwarya0705" height="40" width="40" /></a>
 
