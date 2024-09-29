@@ -4,7 +4,7 @@
 
 ---
 
-  - 🙂 I am a Computer Science Sophomore at IIIT Jabalpur
+  - 🙂 Computer Science at IIIT Jabalpur
   - 🔭 I Like solving problems and building random stuffs :P
   - 💬 I usually code in C++, Java, python or JS
   - 📫 You can [mail](mailto:aishwarya0749@gmail.com) me for anything!
